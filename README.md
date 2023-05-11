@@ -35,6 +35,7 @@
 - Learning with Fantasy: Semantic-Aware Virtual Contrastive Constraint for Few-Shot Class-Incremental Learning (**CVPR23**)[[paper](https://arxiv.org/abs/2304.00426)] [[code](https://github.com/zysong0113/SAVC)]
 - Multimodal Parameter-Efficient Few-Shot Class Incremental Learning (**arXiv23**)[[paper](https://arxiv.org/abs/2303.04751)]
 - Real-Time Evaluation in Online Continual Learning: A New Hope (**CVPR23 Highlight**)[[paper](https://arxiv.org/abs/2302.01047)]
+- Remind of the Past: Incremental Learning with Analogical Prompts (**arXiv23**)[[paper](https://arxiv.org/abs/2303.13898)] [[code](https://github.com/ZhihengCV/A-Prompts)]
 
 
 ### 2022
