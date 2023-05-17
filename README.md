@@ -1,9 +1,12 @@
 # Awesome Incremental Learning with Pre-trained Models[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-![](https://img.shields.io/badge/AILpapers-v1.0-orange)
-![](https://img.shields.io/github/stars/sun-hailong/Awesome-Incremental-Learning-with-Pre-trained-Model?style=social)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsun-hailong%2FAwesome-Incremental-Learning-with-Pre-trained-Model&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-![](https://black.readthedocs.io/en/stable/_static/license.svg)
+<p align="center">
+    <a href=""><img src="https://img.shields.io/badge/AILpapers-v1.0-orange"></a>
+    <a href=""><img
+src="https://img.shields.io/github/stars/sun-hailong/Awesome-Incremental-Learning-with-Pre-trained-Model?style=social"></a>
+	<a href=""><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsun-hailong%2FAwesome-Incremental-Learning-with-Pre-trained-Model&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"></a>
+	<a href=""><img src="https://img.shields.io/github/last-commit/sun-hailong/Awesome-Incremental-Learning-with-Pre-trained-Models"></a>
+</p>
 
 ## 🤗 Contributing
 ### 🚀Feel free to [contact me]() or add [pull request](https://github.com/sun-hailong/Awesome-Incremental-Learning-with-Pre-trained-Model/pulls) if you find👀 any interesting paper is missing.
@@ -36,6 +39,7 @@
 - Multimodal Parameter-Efficient Few-Shot Class Incremental Learning (**arXiv23**)[[paper](https://arxiv.org/abs/2303.04751)]
 - Real-Time Evaluation in Online Continual Learning: A New Hope (**CVPR23 Highlight**)[[paper](https://arxiv.org/abs/2302.01047)]
 - Remind of the Past: Incremental Learning with Analogical Prompts (**arXiv23**)[[paper](https://arxiv.org/abs/2303.13898)] [[code](https://github.com/ZhihengCV/A-Prompts)]
+- On the Usage of Continual Learning for Out-of-Distribution Generalization in Pre-trained Language Models of Code (**arXiv23**)[[paper](https://arxiv.org/abs/2305.04106)]
 
 
 ### 2022
@@ -46,6 +50,18 @@
 - DualPrompt: Complementary Prompting for Rehearsal-free Continual Learning (**ECCV22**)[[paper](https://arxiv.org/abs/2204.04799)] [[code](https://github.com/google-research/l2p)]
 - Incremental Prompting: Episodic Memory Prompt for Lifelong Event Detection (**COLING22**)[[paper](https://arxiv.org/abs/2204.07275)]
 - Momentum-based Weight Interpolation of Strong Zero-Shot Models for Continual Learning (**NeurIPS22**)[[paper](https://arxiv.org/abs/2204.07275)]
-- Prompt Conditioned VAE: Enhancing Generative Replay for Lifelong Learning in Task-Oriented Dialogue(**ENNLP22**)[[paper](https://arxiv.org/abs/2210.07783)]
+- Prompt Conditioned VAE: Enhancing Generative Replay for Lifelong Learning in Task-Oriented Dialogue (**ENNLP22**)[[paper](https://arxiv.org/abs/2210.07783)]
+- CLIP model is an Efficient Continual Learner (**arXiv22**)[[paper](https://arxiv.org/abs/2210.03114)] [[code](https://github.com/vgthengane/Continual-CLIP)]
+- Memory Efficient Continual Learning with Transformers (**NeurIPS22**)[[paper](https://arxiv.org/abs/2203.04640)]
+- Continual Pre-Training Mitigates Forgetting in Language and Vision (**arXiv22**)[[paper](https://arxiv.org/abs/2205.09357)] [[code](https://github.com/AndreaCossu/continual-pretraining-nlp-vision)]
+- Fine-tuned Language Models are Continual Learners (**arXiv22**)[[paper](https://arxiv.org/abs/2205.12393)] [[code](https://github.com/ThomasScialom/T0_continual_learning)]
+- Continual Learning with Foundation Models: An Empirical Study of Latent Replay (**CoLLAs22**)[[paper](https://openreview.net/pdf?id=GhVS8_yPeEa)] [[code](https://github.com/oleksost/latent_CL)]
+- Effect of scale on catastrophic forgetting in neural networks (**ICLR22**)[[paper](https://arxiv.org/abs/2205.00329)]
+- Continual Training of Language Models for Few-Shot Learning (**arXiv22**)[[paper](https://arxiv.org/abs/2210.05549)] [[code](https://github.com/UIC-Liu-Lab/CPT)]
+- CLiMB: A Continual Learning Benchmark for Vision-and-Language Tasks (**arXiv22**)[[paper](https://arxiv.org/abs/2206.09059)] [[code](https://github.com/GLAMOR-USC/CLiMB)]
+- A Simple Baseline that Questions the Use of Pretrained-Models in Continual Learning (**arXiv22**)[[paper](https://arxiv.org/abs/2210.04428)] [[code](https://github.com/UIC-Liu-Lab/CPT)]
+
 
 ### 2021
+- An Empirical Investigation of the Role of Pre-training in Lifelong Learning (**arXiv21**)[[paper](https://arxiv.org/abs/2112.09153)] [[code](https://github.com/sanketvmehta/lifelong-learning-pretraining-and-sam)]
+- Learn Continually, Generalize Rapidly: Lifelong Knowledge Accumulation for Few-shot Learning (**ENNLP21**)[[paper](https://arxiv.org/abs/2104.08808)] [[code](https://github.com/INK-USC/CLIF)]
