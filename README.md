@@ -48,6 +48,8 @@ src="https://img.shields.io/github/stars/sun-hailong/Awesome-Incremental-Learnin
 - Unsupervised Continual Semantic Adaptation through Neural Rendering (**CVPR23**)[[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Liu_Unsupervised_Continual_Semantic_Adaptation_Through_Neural_Rendering_CVPR_2023_paper.pdf)]
 - ConStruct-VL: Data-Free Continual Structured VL Concepts Learning (**CVPR23**)[[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Smith_ConStruct-VL_Data-Free_Continual_Structured_VL_Concepts_Learning_CVPR_2023_paper.pdf)] [[code](https://github.com/jamessealesmith/ConStruct-VL)]
 - Task Difficulty Aware Parameter Allocation & Regularization for Lifelong Learning (**CVPR23**)[[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Brahma_A_Probabilistic_Framework_for_Lifelong_Test-Time_Adaptation_CVPR_2023_paper.pdf)] [[code](https://github.com/dhanajitb/petal)]
+- Learning without Forgetting for Vision-Language Models (**arXiv23**)[[paper](https://arxiv.org/abs/2305.19270)]
+
 
 ### 2022
 - Class-Incremental Learning with Strong Pre-trained Models (**CVPR22**)[[paper](https://arxiv.org/abs/2204.03634)] [[code](https://github.com/amazon-science/sp-cil)]
