@@ -20,6 +20,9 @@ src="https://img.shields.io/github/stars/sun-hailong/Awesome-Incremental-Learnin
 - Paper Name. (**Conference Year**) [[paper](link)] [[code](link)]
 ```
 
+## 🛠️Toolbox
+- PILOT: A Pre-Trained Model-Based Continual Learning Toolbox (**arXiv23**)[[paper](https://arxiv.org/abs/2309.07117)] [[code](https://github.com/sun-hailong/LAMDA-PILOT)]
+
 ## 📑Papers
 
 ### 2023
