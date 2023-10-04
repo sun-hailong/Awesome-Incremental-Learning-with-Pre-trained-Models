@@ -52,6 +52,8 @@ src="https://img.shields.io/github/stars/sun-hailong/Awesome-Incremental-Learnin
 - ConStruct-VL: Data-Free Continual Structured VL Concepts Learning (**CVPR23**)[[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Smith_ConStruct-VL_Data-Free_Continual_Structured_VL_Concepts_Learning_CVPR_2023_paper.pdf)] [[code](https://github.com/jamessealesmith/ConStruct-VL)]
 - Task Difficulty Aware Parameter Allocation & Regularization for Lifelong Learning (**CVPR23**)[[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Brahma_A_Probabilistic_Framework_for_Lifelong_Test-Time_Adaptation_CVPR_2023_paper.pdf)] [[code](https://github.com/dhanajitb/petal)]
 - Learning without Forgetting for Vision-Language Models (**arXiv23**)[[paper](https://arxiv.org/abs/2305.19270)]
+- Image-Object-Specific Prompt Learning for Few-Shot Class-Incremental Learning (**arXiv23**)[[paper](https://arxiv.org/abs/2309.02833)]
+- Introducing Language Guidance in Prompt-based Continual Learning (**ICCV23**)[[paper](https://arxiv.org/abs/2308.15827)]
 
 
 ### 2022
@@ -72,6 +74,7 @@ src="https://img.shields.io/github/stars/sun-hailong/Awesome-Incremental-Learnin
 - Continual Training of Language Models for Few-Shot Learning (**arXiv22**)[[paper](https://arxiv.org/abs/2210.05549)] [[code](https://github.com/UIC-Liu-Lab/CPT)]
 - CLiMB: A Continual Learning Benchmark for Vision-and-Language Tasks (**NeurIPS22**)[[paper](https://arxiv.org/abs/2206.09059)] [[code](https://github.com/GLAMOR-USC/CLiMB)]
 - A Simple Baseline that Questions the Use of Pretrained-Models in Continual Learning (**arXiv22**)[[paper](https://arxiv.org/abs/2210.04428)] [[code](https://github.com/UIC-Liu-Lab/CPT)]
+- ELLE: Efficient Lifelong Pre-training for Emerging Data (**ACL22**)[[paper](https://arxiv.org/abs/2203.06311)] [[code](https://github.com/thunlp/ELLE)]
 
 
 ### 2021
