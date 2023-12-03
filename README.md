@@ -54,6 +54,8 @@ src="https://img.shields.io/github/stars/sun-hailong/Awesome-Incremental-Learnin
 - Learning without Forgetting for Vision-Language Models (**arXiv23**)[[paper](https://arxiv.org/abs/2305.19270)]
 - Image-Object-Specific Prompt Learning for Few-Shot Class-Incremental Learning (**arXiv23**)[[paper](https://arxiv.org/abs/2309.02833)]
 - Introducing Language Guidance in Prompt-based Continual Learning (**ICCV23**)[[paper](https://arxiv.org/abs/2308.15827)]
+- When Prompt-based Incremental Learning Does Not Meet Strong Pretraining (**ICCV23**)[[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Tang_When_Prompt-based_Incremental_Learning_Does_Not_Meet_Strong_Pretraining_ICCV_2023_paper.pdf)] [[code](https://github.com/TOM-tym/APG)]
+- Class Incremental Learning with Pre-trained Vision-Language Models (**arXiv23**)[[paper](https://arxiv.org/pdf/2310.20348.pdf)]
 
 
 ### 2022
