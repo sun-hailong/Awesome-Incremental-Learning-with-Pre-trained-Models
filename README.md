@@ -28,10 +28,6 @@ src="https://img.shields.io/github/stars/sun-hailong/Awesome-Incremental-Learnin
 ### 2023
 - Revisiting Class-Incremental Learning with Pre-Trained Models: Generalizability and Adaptivity are All You Need (**arXiv23**)[[paper](https://arxiv.org/abs/2303.07338)] [[code](https://github.com/zhoudw-zdw/RevisitingCIL)]
 - PromptFusion: Decoupling Stability and Plasticity for Continual Learning (**arXiv23**)[[paper](https://arxiv.org/abs/2303.07223)]
-- Preventing Zero-Shot Transfer Degradation in Continual Learning of Vision-Language Models (**arXiv23**)[[paper](https://arxiv.org/abs/2303.06628)] [[code](https://github.com/Thunderbeee/ZSCL)]
-- A Unified Continual Learning Framework with General Parameter-Efficient Tuning (**arXiv23**)[[paper](https://arxiv.org/abs/2303.10070)] [[code](https://github.com/gqk/LAE)]
-- SLCA: Slow Learner with Classifier Alignment for Continual Learning on a Pre-trained Model (**arXiv23**)[[paper](https://arxiv.org/abs/2303.05118)]
-- PLOT: Prompt Learning with Optimal Transport for Vision-Language Models (**ICLR23**)[[paper](https://arxiv.org/abs/2210.01253)] [[code](https://github.com/CHENGY12/PLOT)]
 - CODA-Prompt: COntinual Decomposed Attention-based Prompting for Rehearsal-Free Continual Learning (**CVPR23**)[[paper](https://arxiv.org/abs/2211.13218)] [[code](https://github.com/GT-RIPL/CODA-Prompt)]
 - Isolation and Impartial Aggregation: A Paradigm of Incremental Learning without Interference (**AAAI23**)[[paper](https://arxiv.org/abs/2211.15969)] [[code](https://github.com/iamwangyabin/ESN)]
 - PIVOT: Prompting for Video Continual Learning (**CVPR23**)[[paper](https://arxiv.org/abs/2212.04842)]
@@ -56,6 +52,19 @@ src="https://img.shields.io/github/stars/sun-hailong/Awesome-Incremental-Learnin
 - Introducing Language Guidance in Prompt-based Continual Learning (**ICCV23**)[[paper](https://arxiv.org/abs/2308.15827)]
 - When Prompt-based Incremental Learning Does Not Meet Strong Pretraining (**ICCV23**)[[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Tang_When_Prompt-based_Incremental_Learning_Does_Not_Meet_Strong_Pretraining_ICCV_2023_paper.pdf)] [[code](https://github.com/TOM-tym/APG)]
 - Class Incremental Learning with Pre-trained Vision-Language Models (**arXiv23**)[[paper](https://arxiv.org/pdf/2310.20348.pdf)]
+- Hierarchical Decomposition of Prompt-Based Continual Learning: Rethinking Obscured Sub-optimality (**NeurIPS23**)[[paper](https://arxiv.org/abs/2310.07234)] [[code](https://github.com/thu-ml/HiDe-Prompt)]
+- FeCAM: Exploiting the Heterogeneity of Class Distributions in Exemplar-Free Continual Learning (**NeurIPS23**)[[paper](https://arxiv.org/abs/2309.14062)] [[code](https://github.com/dipamgoswami/FeCAM)]
+- RanPAC: Random Projections and Pre-trained Models for Continual Learning (**NeurIPS23**)[[paper](https://arxiv.org/abs/2307.02251)] [[code](https://github.com/RanPAC/RanPAC)]
+- Continual Learners are Incremental Model Generalizers (**ICML23**)[[paper](http://arxiv.org/abs/2306.12026)]
+- DDGR: Continual Learning with Deep Diffusion-based Generative Replay (**ICML23**)[[paper](https://openreview.net/pdf?id=RlqgQXZx6r)] [[code](https://github.com/xiaocangshengGR/DDGR)]
+- Continual Vision-Language Representation Learning with Off-Diagonal Information (**ICML23**)[[paper](https://arxiv.org/abs/2305.07437)]
+- Self-regulating Prompts: Foundational Model Adaptation without Forgetting (**ICCV23**)[[paper](https://arxiv.org/abs/2307.06948)] [[code](https://github.com/muzairkhattak/PromptSRC)]
+- CTP: Towards Vision-Language Continual Pretraining via Compatible Momentum Contrast and Topology Preservation (**ICCV23**)[[paper](https://browse.arxiv.org/pdf/2308.07146.pdf)] [[code](https://github.com/KevinLight831/CTP)]
+- Online Class Incremental Learning on Stochastic Blurry Task Boundary via Mask and Visual Prompt Tuning (**ICCV23**)[[paper](https://arxiv.org/abs/2308.09303)] [[code](https://github.com/moonjunyyy/si-blurry)]
+- First Session Adaptation: A Strong Replay-Free Baseline for Class-Incremental Learning (**ICCV23**)[[paper](https://arxiv.org/abs/2303.13199)]
+- Preventing Zero-Shot Transfer Degradation in Continual Learning of Vision-Language Models (**ICCV23**)[[paper](https://arxiv.org/pdf/2303.06628.pdf)] [[code](https://github.com/Thunderbeee/ZSCL)]
+- A Unified Continual Learning Framework with General Parameter-Efficient Tuning (**ICCV23**)[[paper](https://arxiv.org/abs/2303.10070)] [[code](https://github.com/gqk/LAE)]
+- SLCA: Slow Learner with Classifier Alignment for Continual Learning on a Pre-trained Model (**ICCV23**)[[paper](https://arxiv.org/pdf/2303.05118.pdf)] [[code](https://github.com/GengDavid/SLCA)]
 
 
 ### 2022
