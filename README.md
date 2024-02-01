@@ -23,6 +23,10 @@ src="https://img.shields.io/github/stars/sun-hailong/Awesome-Incremental-Learnin
 ## 🛠️Toolbox
 - PILOT: A Pre-Trained Model-Based Continual Learning Toolbox (**arXiv23**)[[paper](https://arxiv.org/abs/2309.07117)] [[code](https://github.com/sun-hailong/LAMDA-PILOT)]
 
+## 📝Survey
+- Continual Learning with Pre-Trained Models: A Survey (**arXiv23**)[[paper](https://arxiv.org/abs/2401.16386)] [[code](https://github.com/sun-hailong/LAMDA-PILOT)]
+- Deep Class-Incremental Learning: A Survey (**arXiv23**)[[paper](https://arxiv.org/abs/2302.03648)] [[code](https://github.com/zhoudw-zdw/CIL_Survey)]
+
 ## 📑Papers
 
 ### 2023
@@ -31,7 +35,6 @@ src="https://img.shields.io/github/stars/sun-hailong/Awesome-Incremental-Learnin
 - CODA-Prompt: COntinual Decomposed Attention-based Prompting for Rehearsal-Free Continual Learning (**CVPR23**)[[paper](https://arxiv.org/abs/2211.13218)] [[code](https://github.com/GT-RIPL/CODA-Prompt)]
 - Isolation and Impartial Aggregation: A Paradigm of Incremental Learning without Interference (**AAAI23**)[[paper](https://arxiv.org/abs/2211.15969)] [[code](https://github.com/iamwangyabin/ESN)]
 - PIVOT: Prompting for Video Continual Learning (**CVPR23**)[[paper](https://arxiv.org/abs/2212.04842)]
-- Deep Class-Incremental Learning: A Survey (**arXiv23**)[[paper](https://arxiv.org/abs/2302.03648)] [[code](https://github.com/zhoudw-zdw/CIL_Survey)]
 - DualHSIC: HSIC-Bottleneck and Alignment for Continual Learning (**ICML23**)[[paper](https://arxiv.org/abs/2305.00380)]
 - Learning Expressive Prompting With Residuals for Vision Transformers (**CVPR23**)[[paper](https://arxiv.org/abs/2303.15591)]
 - Multimodal Parameter-Efficient Few-Shot Class Incremental Learning (**arXiv23**)[[paper](https://arxiv.org/abs/2303.04751)]
