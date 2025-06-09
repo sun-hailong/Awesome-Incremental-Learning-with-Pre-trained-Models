@@ -4,7 +4,7 @@
     <a href=""><img src="https://img.shields.io/badge/AILpapers-v1.0-orange"></a>
     <a href=""><img
 src="https://img.shields.io/github/stars/sun-hailong/Awesome-Incremental-Learning-with-Pre-trained-Model?style=social"></a>
-	<a href=""><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsun-hailong%2FAwesome-Incremental-Learning-with-Pre-trained-Model&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"></a>
+<!-- 	<a href=""><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsun-hailong%2FAwesome-Incremental-Learning-with-Pre-trained-Model&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"></a> -->
 	<a href=""><img src="https://img.shields.io/github/last-commit/sun-hailong/Awesome-Incremental-Learning-with-Pre-trained-Models"></a>
 </p>
 
